@@ -2,18 +2,18 @@
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
-<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="200"></a>&nbsp;
+<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="300"></a>
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](./preface.md).**
 
 ## TOC
 
-* ["Up & Going"](./up%20&%20going/README.md)
-* ["Scope & Closures"](./scope%20&%20closures/README.md)
-* ["this & Object Prototypes"](./this%20&%20object%20prototypes/README.md)
-* ["Types & Grammar"](./types%20&%20grammar/README.md)
-* ["Async & Performance"](./async%20&%20performance/README.md)
-* ["ES6 & Beyond"](./es6%20&%20beyond/README.md)
+* ["Up & Going"](./up%20&%20going)
+* ["Scope & Closures"](./scope%20&%20closures)
+* ["this & Object Prototypes"](./this%20&%20object%20prototypes)
+* ["Types & Grammar"](./types%20&%20grammar)
+* ["Async & Performance"](./async%20&%20performance)
+* ["ES6 & Beyond"](./es6%20&%20beyond)
 
 ## sth  else
 
